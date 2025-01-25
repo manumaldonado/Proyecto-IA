@@ -1,4 +1,12 @@
 # Proyecto-IA
+
+![Python](https://img.shields.io/badge/Code-Python-blue.svg)
+![Jupyter Notebook](https://img.shields.io/badge/Tool-Jupyter%20Notebook-orange.svg)
+![Machine Learning](https://img.shields.io/badge/Technology-Machine%20Learning-yellow.svg)
+![Artificial Intelligence](https://img.shields.io/badge/Field-Artificial%20Intelligence-brightgreen.svg)
+![Data Analysis](https://img.shields.io/badge/Focus-Data%20Analysis-red.svg)
+![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-ffbb00.svg)
+
 Proyecto Inteligencia Artificial de Samsung
 
 ## Equipo
