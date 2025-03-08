@@ -51,6 +51,15 @@ Proyecto Inteligencia Artificial de Samsung
       </tr>
       <tr>
          <td>
+            <img src="https://avatars.githubusercontent.com/u/125399105?v=4"
+                 alt="Maeva Puente" width="65">
+         </td>
+         <td>Maeva Puente</td>
+         <td><a href="https://github.com/msathiu">msathiu</a></td>
+         <td>Desarrollador</td>
+      </tr>
+      <tr>
+         <td>
             <img src="https://avatars.githubusercontent.com/u/125196247?v=4"
                  alt="Manuel Maldonado" width="65">
          </td>
